@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Recetas</string>
+    <string name="onboarding_step_1">Bienvenido al app de recetas</string>
+    <string name="onboarding_step_1_description">Este es un reto tecnico</string>
+    <string name="onboarding_step_2">Sorry</string>
+    <string name="onboarding_step_2_description">El app consume el api gratuito de themealdb por lo que las recetas estan en ingles</string>
+    <string name="onboarding_step_3">Gracias por tu tiempo</string>
+    <string name="onboarding_step_3_description">Para guardar una receta como favorita utilizar el icono de la estrella.</string>
+    <string name="start_button">Empezar</string>
+    <string name="home_tab">Inicio</string>
+    <string name="favorites_tab">Favoritos</string>
+    <string name="recipe_detail_load_error">No se pudieron cargar los detalles de la receta.</string>
+    <string name="instructions_title">Instrucciones</string>
+    <string name="ingredients_title">Ingredientes</string>
+    <string name="back_action">Atrás</string>
+    <string name="togle_favorite_action">Cambiar favorito</string>
+    <string name="empty_list_placeholder">No hay recetas que mostrar</string>
+</resources>

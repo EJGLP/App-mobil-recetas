@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636552948051",
+    "project_id": "listado-propiedades",
+    "storage_bucket": "listado-propiedades.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636552948051:android:3cb280e8ed3500bfc1d9a6",
+        "android_client_info": {
+          "package_name": "com.irpania.recetas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwX_bPqVu97zVAKYXBXjtF1XoscV9ktkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
